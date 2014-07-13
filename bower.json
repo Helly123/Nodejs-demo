@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "Its a Sample application",
 	"dependencies": {
-		"bootstrap": "~3",
+		"bootstrap": "latest",
 		"angular": "~1.2",
 		"angular-resource": "~1.2",
 		"angular-mocks": "~1.2",
